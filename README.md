@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PT. Dans Multi Pro**
 
-- 🌱 I’m currently learning **Redux, Vue, GraphQL**
+- 🌱 I’m currently learning **Redux, Vue, GraphQL, BigQuery**
 
 - 💬 Ask me about **React.js, Next.js, JavaScript, Node.js, Express.js, Rest API**
 
